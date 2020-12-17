@@ -1,0 +1,19 @@
+{
+  "name": "get-timestamp",
+  "version": "1.0.0",
+  "description": "# example",
+  "main": "getTimestamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamYiZ/js-getTime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamYiZ/js-getTime/issues"
+  },
+  "homepage": "https://github.com/dreamYiZ/js-getTime#readme"
+}
