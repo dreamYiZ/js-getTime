@@ -1,5 +1,8 @@
 # js-getTime
 
+function getTime(h, m, s)
+
+
 # example 
 
 ```javascript
